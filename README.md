@@ -1,6 +1,6 @@
 # Litepaper
 
-Version: 1
+> Superciety has been progressing fast, has learned many new things, and is at the point where many of the described features are already live on mainnet. For this reason, this paper is considered deprecated.
 
 ## Abstract
 
